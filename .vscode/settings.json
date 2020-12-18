@@ -1,0 +1,8 @@
+{
+  "azureFunctions.deploySubpath": "target/azure-functions/tech-days-queue-reader-java",
+  "azureFunctions.projectLanguage": "Java",
+  "azureFunctions.projectRuntime": "~3",
+  "debug.internalConsoleOptions": "neverOpen",
+  "azureFunctions.preDeployTask": "package",
+  "java.configuration.updateBuildConfiguration": "interactive"
+}
